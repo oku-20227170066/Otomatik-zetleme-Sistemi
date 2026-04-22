@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+PyPDF2
+nltk
+scikit-learn
+wordcloud
+matplotlib
+rouge-score
