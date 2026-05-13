@@ -9,11 +9,3 @@
 | **Bağımlılıklar**    | requirements.txt karşılaştırma tablosu                                           |
 | **Sorun Giderme**    | Yaygın hatalar ve çözümleri                                                      |
 | **Lisans & Katkı**   | MIT lisansı, PR rehberi                                                          |
-
-# Terminalde proje klasöründe
-git init
-git add .
-git commit -m "Initial commit - NLP summarizer"
-git branch -M main
-git remote add origin https://github.com/KULLANICIADIN/REPO_ADI.git
-git push -u origin main
