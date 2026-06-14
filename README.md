@@ -7,5 +7,5 @@
 | **Veriseti Formatı** | CSV ve JSON örnekleri                                                            |
 | **Teknik Detaylar**  | Model isimleri, yöntemler, varsayılan parametreler                               |
 | **Bağımlılıklar**    | requirements.txt karşılaştırma tablosu                                           |
-| **Sorun Giderme**    | Yaygın hatalar ve çözümleri                                                      |
+| **Sorun Giderme**    | Yaygın hatalar ve çözümleri.                                                    |
 | **Lisans & Katkı**   | MIT lisansı, PR rehberi                                                          |
